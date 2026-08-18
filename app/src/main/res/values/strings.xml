@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Routine Lock</string>
+    <string name="accessibility_service_description">Watches which app is open so Routine Lock can hold you to your planned blocks.</string>
+</resources>
